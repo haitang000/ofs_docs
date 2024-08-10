@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '🚀 介绍', link: '/intro' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '⚡ 加入服务器', link: '/join-server' }
         ]
       }
     ],
